@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<h2> 😀 Ferramentas e Tecnologias 😀 </h2>
+<h2> Ferramentas e Tecnologias  </h2>
 <div align="center">
 
   <!-- Linguagens -->
@@ -21,15 +21,15 @@
 
 ---
 
-<h2> 😀😀😀 Sobre Mim 😀😀😀 </h2>
+<h2>  Sobre Mim... </h2>
 
-<p>Tenho 15 anos, sou desenvolvedora web e estudante do primeiro ano.</p>
+<p>Tenho 15 anos, sou desenvolvedora web e estudante do primeiro ano e estou cursando na afesu veleiros.</p>
 
 <p>Estou aprendendo e explorando o mundo da programação para crescer cada vez mais na área.</p>
 
 ---
 
-## 😀 GitHub Stats 😀
+##  GitHub Stats 
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
@@ -38,7 +38,7 @@
 
 ---
 
-## 😀 Snake Status 😀
+##  Snake Status 
 
 <div align="center">
   <img src="https://github.com/seuusuario/seuusuario/blob/main/snake-dark.svg" alt="Snake animation">
